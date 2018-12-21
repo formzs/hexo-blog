@@ -5,7 +5,7 @@
 # Site
 title: K631
 subtitle:
-description:
+description: 大苦无声
 keywords:
 author: LieToMe
 language: zh-Hans
@@ -81,3 +81,5 @@ deploy:
   type: git
   repository: git@github.com:formzs/formzs.github.io.git
   branch: master
+
+avatar: /images/touxiang.jpg
