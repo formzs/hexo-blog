@@ -83,3 +83,24 @@ deploy:
   branch: master
 
 avatar: /images/touxiang.jpg
+
+nofollow:
+    enable: true
+    exclude:
+        - formzs.github.io
+
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml
+    
+search:
+    path: search.xml
+    field: post
+    format: html
+    limit: 10000
+
