@@ -96,7 +96,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
-  about: /about/
+  about: /about/ || user
 
 # Enable/Disable menu icons.
 menu_icons:
